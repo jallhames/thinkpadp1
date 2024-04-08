@@ -1,0 +1,40 @@
+XTerm.vt100.geometry: 85x27
+XTerm.vt100.faceName: FiraCode Nerd Font Mono:size=9:style=SemiBold:antialias=true
+XTerm.vt100.renderFont: true
+
+! special
+*.foreground:   #ffffff
+*.background:   #000000
+*.cursorColor:  #ffffff
+
+! black
+*.color0:       #181818
+*.color8:       #888888
+
+! red
+*.color1:       #a54242
+*.color9:       #cc6666
+
+! green
+*.color2:       #40945a
+*.color10:      #68bd7b
+
+! yellow
+*.color3:       #de935f
+*.color11:      #f0c674
+
+! blue
+*.color4:       #5f819d
+*.color12:      #81a2be
+
+! magenta
+*.color5:       #85678f
+*.color13:      #b294bb
+
+! cyan
+*.color6:       #5e8d87
+*.color14:      #8abeb7
+
+! white
+*.color7:       #707880
+*.color15:      #ffffff

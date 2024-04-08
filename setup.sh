@@ -24,5 +24,7 @@ chmod +x ~/.scripts/time.sh &&
 chmod +x ~/.bashrc &&
 
 echo "export _JAVA_AWT_WM_NONREPARENTING=1" >> /etc/profile &&
+cp ./grub /etc/default/grub &&
 
-echo "Done! Enjoy."
+echo "Done! Enjoy." &&
+echo "Remember to change grub_distributor in /etc/default/grub."
